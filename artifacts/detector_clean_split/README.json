@@ -1,0 +1,9 @@
+{
+  "protocol": "detector-clean split: union confirmed prefix edges, assign every mixed original component to train60",
+  "n_confirmed_edges": 23,
+  "n_components_with_confirmed_edges": 23,
+  "n_prefixes_moved_from_heldout_to_train": 13,
+  "train_images": 21100,
+  "heldout_images": 14026,
+  "guardrail": "This split is clean only with respect to the declared detector-confirmed identity graph; it is not proof of global patient disjointness."
+}
